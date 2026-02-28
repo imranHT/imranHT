@@ -1,4 +1,7 @@
-## Hi there 👋 I'm Imran Hasan
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Imran+Hasan+Talukdar(imranHT);Welcome to my profile." />
+</h1>
 
 🎓  Bsc in CSE student at Prime University,Dhaka,Bangladesh   
 💻 Java Developer | Spring Boot Learner  
