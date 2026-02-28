@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Imran Hasan
 
-<!--
-**imranHT/imranHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓  Bsc in CSE student at Prime University,Dhaka,Bangladesh   
+💻 Java Developer | Spring Boot Learner  
+🚀 Future Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on Java & Spring Boot projects
+- 🌱 I’m currently learning Spring Boot, REST API, and MySQL
+- 👯 I’m looking to collaborate on Java backend projects
+- 🤝 I’m looking for internship / junior developer opportunities
+- 💬 Ask me about Java, OOP, Basic DSA
+- 📫 E mail  imranhasan.pu@gmail.com
+- ⚡ Fun fact: I love building real-world backend systems!
+
+---
+### 📫 links:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imran-hasan-talukdar-87b52a288/)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@imranhasan4740)
+
+
+
+### 🛠️ Skills
+
+- 💻 Language: Java
+- 🌐 Backend: Spring Boot (Learning)
+- 🗄️ Database: MySQL
+- 🔧 Tools: Git, GitHub, VS Code, IntelliJ IDEA
+- 📚 Concepts: OOP, DSA, REST API
+
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranOSD&theme=tokyonight)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImranOSD&theme=tokyo-night)
+
+
+⭐ Thanks for visiting my profile!
