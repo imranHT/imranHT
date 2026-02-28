@@ -34,7 +34,5 @@
 ---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranHT&theme=tokyonight)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImranHT&theme=tokyo-night)
-
 
 ⭐ Thanks for visiting my profile!
