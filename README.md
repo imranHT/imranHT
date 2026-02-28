@@ -32,9 +32,9 @@
 - 📚 Concepts: OOP, DSA, REST API
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranOSD&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranHT&theme=tokyonight)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImranOSD&theme=tokyo-night)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImranHT&theme=tokyo-night)
 
 
 ⭐ Thanks for visiting my profile!
