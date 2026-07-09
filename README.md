@@ -34,7 +34,7 @@
 - 📚 Concepts: OOP, DSA, REST API
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranHT&theme=tokyonight)
+
 
 
 ⭐ Thanks for visiting my profile!
