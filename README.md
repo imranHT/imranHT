@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Spring Boot, REST API, and MySQL
 - 👯 I’m looking to collaborate on Java backend projects
 - 🤝 I’m looking for internship / junior developer opportunities
-- 💬 Ask me about Java, OOP, Basic DSA
+- 💬 Ask me about Java, OOP, Basic DSA, Dart
 - 📫 E mail  imranhasan.pu@gmail.com
 - ⚡ Fun fact: I love building real-world backend systems!
 
@@ -27,14 +27,14 @@
 
 ### 🛠️ Skills
 
-- 💻 Language: Java
-- 🌐 Backend: Spring Boot (Learning)
+- 💻 Language: Java, Dart
+- 🌐 Backend: Spring Boot (Learning), Flutter
 - 🗄️ Database: MySQL
 - 🔧 Tools: Git, GitHub, VS Code, IntelliJ IDEA
 - 📚 Concepts: OOP, DSA, REST API
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranHT&theme=tokyonight)
+
 
 ⭐ Thanks for visiting my profile!
