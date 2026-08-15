@@ -3,15 +3,15 @@
 </h1>
 
 🎓  Bsc in CSE student at Prime University,Dhaka,Bangladesh   
-💻 Java Developer | Spring Boot Learner  
+💻 Java Developer | Spring Boot, Flutter   
 🚀 Future Software Engineer  
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on Java & Spring Boot projects
-- 🌱 I’m currently learning Spring Boot, REST API, and MySQL
+- 🔭 I'm currently working on Dart & Flutter project
+- 🌱 I’m currently learning Spring Boot, Flutter , REST API, and MySQL
 - 👯 I’m looking to collaborate on Java backend projects
 - 🤝 I’m looking for internship / junior developer opportunities
 - 💬 Ask me about Java, OOP, Basic DSA, Dart
